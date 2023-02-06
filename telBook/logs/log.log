@@ -1,0 +1,13 @@
+telBook.model ::: 2023-02-06 20:13:34,992 ::: DEBUG ::: get_all_category_name
+telBook.handler_control ::: 2023-02-06 20:13:48,246 ::: DEBUG ::: get_data person_name=ива, person_category_name=Сотрудник
+telBook.model ::: 2023-02-06 20:13:48,247 ::: DEBUG ::: get_person_info name=  ива category = Сотрудник
+telBook.handler_control ::: 2023-02-06 20:13:51,772 ::: DEBUG ::: get_data person_name=ива, person_category_name=Студент
+telBook.model ::: 2023-02-06 20:13:51,773 ::: DEBUG ::: get_person_info name=  ива category = Студент
+telBook.handler_control ::: 2023-02-06 20:13:54,222 ::: DEBUG ::: get_data person_name=ива, person_category_name=Ученик
+telBook.model ::: 2023-02-06 20:13:54,223 ::: DEBUG ::: get_person_info name=  ива category = Ученик
+telBook.model ::: 2023-02-06 20:15:29,418 ::: DEBUG ::: logger init
+telBook.handler_control ::: 2023-02-06 20:15:29,419 ::: DEBUG ::: logger init
+telBook.handler_control ::: 2023-02-06 20:15:29,419 ::: DEBUG ::: get_all_category_name
+telBook.model ::: 2023-02-06 20:15:29,421 ::: DEBUG ::: get_all_category_name
+telBook.handler_control ::: 2023-02-06 20:15:36,508 ::: DEBUG ::: get_data person_name=Иванов, person_category_name=Сотрудник
+telBook.model ::: 2023-02-06 20:15:36,509 ::: DEBUG ::: get_person_info name=  Иванов category = Сотрудник
